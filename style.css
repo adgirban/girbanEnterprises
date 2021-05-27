@@ -1,0 +1,258 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+.logo {
+  width: 100px;
+  position: absolute;
+  top: 5px;
+  float: left;
+  margin-left: 220px;
+}
+.top {
+  text-decoration: none;
+  color: aqua;
+  font-size: 15px;
+  font-family: "Josefin Sans", sans-serif;
+  margin-right: 220px;
+  margin-left: -220px;
+  text-transform: uppercase;
+  padding-top: 23px;
+  padding-bottom: 23px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 5px;
+}
+.top:hover {
+  background: black;
+}
+b {
+  word-spacing: 20px;
+  letter-spacing: 1px;
+}
+.nav {
+  background-color: rgba(7, 7, 7, 0.418);
+  height: 8px;
+  padding-bottom: 30px;
+  padding-top: 20px;
+}
+.menu {
+  text-align: right;
+  float: right;
+}
+.girban {
+  color: cadetblue;
+  font-size: 50px;
+  margin-left: 220px;
+  font-family: "Teko", sans-serif;
+  letter-spacing: 2px;
+  display: inline-block;
+}
+.enterprises {
+  color: aqua;
+  font-size: 50px;
+  margin-left: 10px;
+  font-family: "Teko", sans-serif;
+  letter-spacing: 2px;
+  display: inline-block;
+}
+
+.h2-home {
+  color: aqua;
+  font-size: 40px;
+  margin-left: 220px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.one {
+  color: rgba(222, 184, 135, 0.658);
+  margin-left: 220px;
+  margin-right: 800px;
+  font-size: 21px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.two {
+  margin-left: 220px;
+  font-size: 16px;
+  color: aqua;
+  border: 2px solid aqua;
+  display: inline;
+  padding: 15px;
+  border-radius: 100px;
+  font-family: "Josefin Sans", sans-serif;
+}
+.learn {
+  text-decoration: none;
+  color: aqua;
+}
+.two:hover {
+  background: rgba(0, 255, 255, 0.568);
+}
+.index {
+  background-image: url(./images/home.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.body {
+  background: blanchedalmond;
+  height: 100vh;
+}
+.product {
+  margin-left: 250px;
+  margin-right: 250px;
+  text-align: center;
+  background: rgb(39, 34, 34);
+  padding-top: 60px;
+  padding-bottom: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+  position: absolute;
+  bottom: -440px;
+  border-radius: 3px;
+  text-decoration: none;
+}
+.product:hover {
+  background: rgb(151, 45, 45);
+}
+.h1-pd {
+  color: whitesmoke;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.pd {
+  color: darkgray;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.future {
+  margin-left: 250px;
+  margin-right: 250px;
+  text-align: center;
+  background: rgb(39, 34, 34);
+  padding-top: 60px;
+  padding-bottom: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+  position: absolute;
+  bottom: -1000px;
+  border-radius: 3px;
+  text-decoration: none;
+}
+.future:hover {
+  background: rgb(211, 60, 60);
+}
+.h1-fv {
+  color: whitesmoke;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.fv {
+  color: darkgray;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.body2 {
+  background: seashell;
+  height: 130vh;
+}
+.innov {
+  margin-left: 250px;
+  margin-right: 250px;
+  text-align: center;
+  background: rgb(39, 34, 34);
+  padding-top: 60px;
+  padding-bottom: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+  position: absolute;
+  bottom: -1570px;
+  border-radius: 3px;
+  text-decoration: none;
+}
+.innov:hover {
+  background: rgb(211, 60, 60);
+}
+.h1-is {
+  color: whitesmoke;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.is {
+  color: darkgray;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.body3 {
+  height: 60vh;
+}
+.b3-one {
+  background: palegoldenrod;
+  height: 33%;
+}
+.b3-two {
+  background: papayawhip;
+  height: 34%;
+  word-spacing: 220px;
+  text-align: center;
+}
+.b3-three {
+  background: seashell;
+  height: 33%;
+}
+.partners {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  padding-top: 50px;
+  letter-spacing: 1px;
+  color: brown;
+}
+.partners-h1 {
+  font-family: "Work Sans", sans-serif;
+  text-align: center;
+  color: rgb(91, 80, 168);
+}
+.body4 {
+  background: whitesmoke;
+  height: 100vh;
+}
+.contact {
+  margin-left: 500px;
+  margin-right: 500px;
+  font-family: "Lexend";
+  font-size: 20px;
+  color: gray;
+}
+.message {
+  text-decoration: none;
+}
+.msg {
+  margin-left: 500px;
+  font-size: 16px;
+  color: rgb(91, 80, 168);
+  border: 2px solid rgb(91, 80, 168);
+  display: inline;
+  padding: 15px;
+  border-radius: 100px;
+  font-family: "Lexend", sans-serif;
+}
+.msg:hover {
+  background: rgb(91, 78, 173);
+}
+.bottom {
+  background: aliceblue;
+  height: 45vh;
+  border-top: 1px solid rgb(173, 170, 170);
+}
+.b-logo {
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 90px;
+}
+.footer {
+  background: rgb(91, 78, 173);
+  height: 20vh;
+}
+.p-foot {
+  text-align: center;
+  display: block;
+  font-size: 16px;
+  color: white;
+  font-family: "Lexend";
+  padding-top: 60px;
+}
